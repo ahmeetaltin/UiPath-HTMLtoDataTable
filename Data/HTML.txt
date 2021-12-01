@@ -1,0 +1,755 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:inherit;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-postaStili17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="TR" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal" style="vertical-align:baseline"><span style="font-size:12.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:black;mso-fareast-language:TR">Merhabalar,<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="677" style="width:507.75pt;border-collapse:collapse;border:none">
+<tbody>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">başlık 1<o:p></o:p></span></b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">başlık 2<o:p></o:p></span></b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">başlık 3<o:p></o:p></span></b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">başlık 4<o:p></o:p></span></b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">başlık 5<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik1-1<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik1-2<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik1-3<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik1-4<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik1-5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik2-1<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik2-2<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik2-3<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik2-4<o:p></o:p></span></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="MsoNormal"><span style="font-size:24.0pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">içerik2-5<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="margin:0cm;margin-bottom:.0001pt"><span style="font-size:12.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:black"><br>
+</span><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333">Sn &nbsp;KAVEKA MADENCİLİK HARFİYAT VE İNŞAAT SAN. TİC. LTD. ŞTİ.</span><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">&nbsp;</span><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">08.09.2021-14.09.2021 tarih aralığında sevk edilen aşağıdaki tablodaki malzeme için sipariş numaralarınızı da belirterek faturanızı
+ kesmenizi rica ederiz.</span><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">Sipariş numarası yazılmayan faturalarınız RED EDİLECEKTİR!</span><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style="font-size:11.5pt;color:#333333;mso-fareast-language:TR">*FATURALARINIZI TİCARİ FATURA OLARAK KESİNİZ!<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p>&nbsp;</o:p></span></p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="453" style="width:339.45pt;border-collapse:collapse;border:none">
+<tbody>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;background:#FFE599;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><b><span style="font-size:11.5pt;mso-fareast-language:TR">MALZEME</span></b><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border:solid windowtext 1.5pt;border-left:none;background:#FFE599;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><b><span style="font-size:11.5pt;color:black;mso-fareast-language:TR">NAKLİYE</span></b><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border:solid windowtext 1.5pt;border-left:none;background:#FFE599;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><b><span style="font-size:11.5pt;color:black;mso-fareast-language:TR">MÜŞTERİ</span></b><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border:solid windowtext 1.5pt;border-left:none;background:#FFE599;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><b><span style="font-size:11.5pt;color:black;mso-fareast-language:TR">BÖLGE ADI</span></b><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border:solid windowtext 1.5pt;border-left:none;background:#FFE599;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><b><span style="font-size:11.5pt;color:black;mso-fareast-language:TR">MİKTAR</span></b><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC51</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Karaisalı</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">339,55 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC44</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Hatay</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">102,15 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC42</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Adana</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">561,65 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC41</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kilis</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">194,75 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC40</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Osmaniye</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">165,40 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC38</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Gaziantep</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">33,95 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC36</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Oğuzeli</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">627,95 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC35</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Nizip</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">33,00 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC33</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Gaziantep</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">226,05 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC32</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Gaziantep</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">33,10 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-M (P-L) 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC20</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kilis</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">738,00 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM IV/B (P) 32,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CC20</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kilis</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">32,90 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Niğde</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">29,35 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Niğde</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">27,60 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Düziçi</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">64,95 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Toprakkale</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">99,65 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Ceyhan</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">155,80 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Gaziantep</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">163,95 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Gaziantep</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">132,85 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Şanlıurfa</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">33,35 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Pazarcık</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">32,85 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Şatırhöyük</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">29,10 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Yukarı Evri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">219,95 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Seyhan</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">538,65 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Çağlayancerit</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">201,80 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Osmaniye</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">62,25 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Hatay</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">35,05 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-M (P-L) 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kayseri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">32,50 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kırıkhan</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">67,75 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM II/A-P 52,5 N DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Samandağ</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">34,65 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:11.65pt">
+<td width="122" valign="bottom" style="width:91.4pt;border:solid windowtext 1.5pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">CEM I 42,5 R DÖKME</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="66" valign="bottom" style="width:49.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">2010003724</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.25pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Musteri</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">Kahramanmaraş</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="132" valign="bottom" style="width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;padding:0cm 3.5pt 0cm 3.5pt;height:11.65pt">
+<p class="MsoNormal"><span style="font-size:11.5pt;mso-fareast-language:TR">33,10 kg</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="color:#333333;mso-fareast-language:TR">Bu elektronik posta ve onunla iletilen bütün dosyalar sadece göndericisi tarafindan almasi amaclanan yetkili gercek ya da tüzel kisinin kullanimi icindir. Eger söz konusu yetkili alici
+ degilseniz bu elektronik postanin icerigini aciklamaniz, kopyalamaniz, yönlendirmeniz ve kullanmaniz kesinlikle yasaktir ve bu elektronik postayi derhal silmeniz gerekmektedir. Sanko Holding A.Ş. bu mesajin icerdigi bilgilerin doğruluğu veya eksiksiz oldugu
+ konusunda herhangi bir garanti vermemektedir. Bu nedenle bu bilgilerin ne sekilde olursa olsun iceriginden, iletilmesinden, alinmasindan ve saklanmasindan sorumlu degildir. Bu mesajdaki görüsler yalnizca gönderen kisiye aittir ve Sanko Holding A.Ş. in görüslerini
+ yansitmayabilir. Bu e-posta bilinen bütün bilgisayar virüslerine karsi taranmistir. ************************************************************************ This e-mail and any files transmitted with it are confidential and intended solely for the use of the
+ individual or entity to whom they are addressed. If you are not the intended recipient you are hereby notified that any dissemination, forwarding, copying or use of any of the information is strictly prohibited, and the e-mail should immediately be deleted.
+ Sanko Holding A.Ş. makes no warranty as to the accuracy or completeness of any information contained in this message and hereby excludes any liability of any kind for the information contained therein or for the information transmission, reception, storage
+ or use of such in any way whatsoever. The opinions expressed in this message belong to sender alone and may not necessarily reflect the opinions of Sanko Holding A.Ş.. This e-mail has been scanned for all known computer viruses. ************************************************************************<o:p></o:p></span></p>
+<div class="MsoNormal" align="center" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm;text-align:center">
+<span style="color:#333333;mso-fareast-language:TR">
+<hr size="0" width="100%" align="center">
+</span></div>
+<p class="MsoNormal"><b><span style="font-size:8.0pt;color:black;mso-fareast-language:TR">YASAL UYARI:</span></b><span style="color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:10.0pt"><span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">Bu E-mail mesaji ve ekleri, isimleri yazili alicilar disindaki kisilere aciklanmamasi, dagitilmamasi ve iletilmemesi gereken kisiye ozel ve gizli
+ bilgiler icerebilir. Mesajin muhatabi degilseniz lutfen gonderici ile irtibat kurunuz, mesaj ve eklerini siliniz.</span><span style="color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:10.0pt"><span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">E-mail sistemlerinin tasidigi guvenlik risklerinden dolayi, mesajlarin gizlilikleri ve butunlukleri bozulabilir, mesaj virus icerebilir. Bilinen
+ viruslere karsi kontrolleri yapilmis olarak yollanan mesajin sisteminizde yaratabilecegi olasi zararlardan Sirketimiz sorumlu tutulamaz.</span><span style="color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style="font-size:8.0pt;color:black;mso-fareast-language:TR">DISCLAIMER:</span></b><span style="color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:10.0pt"><span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">This email and its attachments may contain private and confidential information intended for the use of the addressee only, which should not
+ be announced, copied or forwarded. If you are not the intended recipient, please contact the sender, delete the message and its attachments. Due to security risks of email systems, the confidentiality and integrity of the message may be damaged, the message
+ may contain viruses. This message is scanned for known viruses and our Company will not be liable for possible system damages caused by the message.</span><span style="color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<div class="MsoNormal" align="center" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm;text-align:center">
+<span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR">
+<hr size="0" width="100%" align="center">
+</span></div>
+<p class="MsoNormal" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm">
+<b><span style="font-size:8.0pt;color:black;mso-fareast-language:TR">YASAL UYARI:</span></b><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm;line-height:10.0pt">
+<span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">Bu E-mail mesaji ve ekleri, isimleri yazili alicilar disindaki kisilere aciklanmamasi, dagitilmamasi ve iletilmemesi gereken kisiye ozel ve gizli bilgiler icerebilir. Mesajin muhatabi degilseniz
+ lutfen gonderici ile irtibat kurunuz, mesaj ve eklerini siliniz.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm;line-height:10.0pt">
+<span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">E-mail sistemlerinin tasidigi guvenlik risklerinden dolayi, mesajlarin gizlilikleri ve butunlukleri bozulabilir, mesaj virus icerebilir. Bilinen viruslere karsi kontrolleri yapilmis olarak
+ yollanan mesajin sisteminizde yaratabilecegi olasi zararlardan Sirketimiz sorumlu tutulamaz.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm">
+<b><span style="font-size:8.0pt;color:black;mso-fareast-language:TR">DISCLAIMER:</span></b><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#333333;mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:15.0pt;margin-left:0cm;line-height:10.0pt">
+<span style="font-size:8.0pt;color:#666666;mso-fareast-language:TR">This email and its attachments may contain private and confidential information intended for the use of the addressee only, which should not be announced, copied or forwarded. If you are not
+ the intended recipient, please contact the sender, delete the message and its attachments. Due to security risks of email systems, the confidentiality and integrity of the message may be damaged, the message may contain viruses. This message is scanned for
+ known viruses and our Company will not be liable for possible system damages caused by the message.<o:p></o:p></span></p>
+<p class="MsoNormal" style="vertical-align:baseline"><span style="font-size:12.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:black;mso-fareast-language:TR"><br>
+Saygılarımla.<br>
+<br>
+<br>
+<br>
+<o:p></o:p></span></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="652" style="width:489.15pt;border-collapse:collapse">
+<tbody>
+<tr style="height:62.45pt">
+<td width="161" style="width:120.5pt;border:none;border-right:solid #D8D8D8 1.0pt;padding:0cm 15.0pt 0cm 0cm;height:62.45pt">
+<p class="MsoNormal"><span style="mso-fareast-language:TR"><img width="178" height="84" style="width:1.8541in;height:.875in" id="Resim_x0020_1" src="cid:image001.png@01D7E6B5.E505A360" alt="B2099CA2"></span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+</td>
+<td width="492" valign="top" style="width:368.65pt;padding:0cm 0cm 0cm 15.0pt;height:62.45pt">
+<p class="MsoNormal"><b><span style="color:#3D85C6;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR">Ahmet ALTIN</span></b><span style="font-size:13.5pt;font-family:inherit;color:black;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR"><br>
+</span><b><span style="font-size:10.0pt;font-family:inherit;color:#444444;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR">RPA Danışmanı</span></b><b><span style="font-size:10.0pt;font-family:inherit;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR"><br>
+</span></b><span style="font-size:10.0pt;font-family:inherit;color:#666666;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR">ahmet.altin@renovaconsulting.com</span><span style="mso-fareast-language:TR"><o:p></o:p></span></p>
+<p class="MsoNormal"><b><span style="color:#444444;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR">+90 531 830 40 12</span></b><span style="font-size:9.0pt;font-family:inherit;color:#949699;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:TR"><br>
+</span><span style="mso-fareast-language:TR"><a href="http://www.renovaconsulting.com/"><span style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#0563C1;border:none windowtext 1.0pt;padding:0cm">renovaconsulting.com</span></a><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="mso-fareast-language:TR"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div style="width:100%; float:left">
+<hr>
+<b style="font-size:8pt;font-family: 'Calibri','Open Sans';color:#000000;">YASAL UYARI:</b>
+<div style="font-size:8pt; line-height:10pt; font-family: 'Calibri','Open Sans';color:#666666;">
+Bu E-mail mesaji ve ekleri, isimleri yazili alicilar disindaki kisilere aciklanmamasi, dagitilmamasi ve iletilmemesi gereken kisiye ozel ve gizli bilgiler icerebilir. Mesajin muhatabi degilseniz lutfen gonderici ile irtibat kurunuz, mesaj ve eklerini siliniz.
+</div>
+<div style="font-size:8pt; line-height:10pt; font-family: 'Calibri','Open Sans';color:#666666;">
+E-mail sistemlerinin tasidigi guvenlik risklerinden dolayi, mesajlarin gizlilikleri ve butunlukleri bozulabilir, mesaj virus icerebilir. Bilinen viruslere karsi kontrolleri yapilmis olarak yollanan mesajin sisteminizde yaratabilecegi olasi zararlardan Sirketimiz
+ sorumlu tutulamaz. </div>
+<b style="font-size:8pt; font-family: 'Calibri','Open Sans'; color:#000000;">DISCLAIMER:</b>
+<div style="font-size:8pt;line-height:10pt; font-family:'Calibri','Open Sans';color:#666666;">
+This email and its attachments may contain private and confidential information intended for the use of the addressee only, which should not be announced, copied or forwarded. If you are not the intended recipient, please contact the sender, delete the message
+ and its attachments. Due to security risks of email systems, the confidentiality and integrity of the message may be damaged, the message may contain viruses. This message is scanned for known viruses and our Company will not be liable for possible system
+ damages caused by the message. </div>
+</div>
+</body>
+</html>
